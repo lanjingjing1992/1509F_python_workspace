@@ -1,0 +1,458 @@
+1505221073807	geckodriver	INFO	geckodriver 0.18.0
+1505221073822	geckodriver	INFO	Listening on 127.0.0.1:50587
+1505221075869	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505221076567	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505221077148	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\lanjingjing\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 384] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\lanjingjing\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15340] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505221079367	Marionette	INFO	Listening on port 50598
+1505221079410	Marionette	INFO	Listening on port 50598
+1505221079518	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505221079560	Marionette	DEBUG	loaded listener.js
+1505221079588	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505221079725	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505221079726	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505221080013	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1505221080592	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+Unable to read VR Path Registry from C:\Users\lanjingjing\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%85%AB&json=1&p=3&sid=1423_21084_17001&req=2&csor=1&cb=jQuery110207674696665703302_1505221079913&_=1505221079915, line 1: TypeError: jQuery110207674696665703302_1505221079913 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%85%AB%E7%BB%B4%E6%95%99&json=1&p=3&sid=1423_21084_17001&req=2&csor=3&pwd=%E5%85%AB%E7%BB%B4&cb=jQuery110207674696665703302_1505221079913&_=1505221079917, line 1: TypeError: jQuery110207674696665703302_1505221079913 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%85%AB%E7%BB%B4&json=1&p=3&sid=1423_21084_17001&req=2&csor=2&pwd=%E5%85%AB&cb=jQuery110207674696665703302_1505221079913&_=1505221079916, line 1: TypeError: jQuery110207674696665703302_1505221079913 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E5%85%AB%E7%BB%B4%E6%95%99%E8%82%B2&json=1&p=3&sid=1423_21084_17001&req=2&csor=4&pwd=%E5%85%AB%E7%BB%B4%E6%95%99&cb=jQuery110207674696665703302_1505221079913&_=1505221079918, line 1: TypeError: jQuery110207674696665703302_1505221079913 is not a function
+1505221081038	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GPU 384] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\lanjingjing\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 20656] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 576] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 576] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1505222604392	geckodriver	INFO	geckodriver 0.18.0
+1505222604402	geckodriver	INFO	Listening on 127.0.0.1:52178
+1505222606456	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505222606950	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505222607418	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\lanjingjing\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 1888] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505222609211	Marionette	INFO	Listening on port 52188
+1505222609226	Marionette	INFO	Listening on port 52188
+1505222609662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505222609704	Marionette	DEBUG	loaded listener.js
+1505222609733	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505222610038	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505222610038	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\lanjingjing\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js, line 503: unreachable code after return statement
+1505222610688	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://blog.csdn.net/"
+1505222610710	Marionette	DEBUG	Received DOM event "pageshow" for "http://blog.csdn.net/"
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 496: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js, line 503: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 496: unreachable code after return statement
+1505222610979	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://blog.csdn.net/"
+1505222610980	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://blog.csdn.net/"
+1505222610982	Marionette	DEBUG	Received DOM event "pageshow" for "http://blog.csdn.net/"
+JavaScript error: http://blog.csdn.net/, line 1: ReferenceError: invalid assignment left-hand side
+1505222611807	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://pos.baidu.com/wcnm?rdid=2521326&dc=3&di=u2521326&dri=0&dis=0&dai=1&ps=3985x959&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1505222611426&ti=CSDN%E5%8D%9A%E5%AE%A2-%E6%9C%80%E5%A4%A7IT%E5%86%99%E4%BD%9C%E5%88%86%E4%BA%AB%E5%B9%B3%E5%8F%B0&ari=2&dbv=0&drs=3&pcs=1349x669&pss=1349x4423&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1505222611&rw=669&ltu=http%3A%2F%2Fblog.csdn.net%2F&ecd=1&uc=1366x738&pis=-1x-1&sr=1366x768&tcn=1505222611&qn=12684def898484da&tt=1505222611394.36.67.70"
+1505222611858	Marionette	DEBUG	Received DOM event "pageshow" for "http://pos.baidu.com/wcnm?rdid=2521326&dc=3&di=u2521326&dri=0&dis=0&dai=1&ps=3985x959&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1505222611426&ti=CSDN%E5%8D%9A%E5%AE%A2-%E6%9C%80%E5%A4%A7IT%E5%86%99%E4%BD%9C%E5%88%86%E4%BA%AB%E5%B9%B3%E5%8F%B0&ari=2&dbv=0&drs=3&pcs=1349x669&pss=1349x4423&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1505222611&rw=669&ltu=http%3A%2F%2Fblog.csdn.net%2F&ecd=1&uc=1366x738&pis=-1x-1&sr=1366x768&tcn=1505222611&qn=12684def898484da&tt=1505222611394.36.67.70"
+1505222611866	Marionette	DEBUG	Received DOM event "pageshow" for "http://blog.csdn.net/"
+[GPU 1888] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\lanjingjing\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14440] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1208] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1505272061246	geckodriver	INFO	geckodriver 0.18.0
+1505272061282	geckodriver	INFO	Listening on 127.0.0.1:58285
+1505272063406	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505272064353	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505272065135	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\lanjingjing\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8340] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\lanjingjing\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4380] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4380] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505272068027	Marionette	INFO	Listening on port 58299
+1505272068035	Marionette	INFO	Listening on port 58299
+1505272068899	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505272068955	Marionette	DEBUG	loaded listener.js
+1505272068992	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505272069209	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505272069210	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\lanjingjing\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js, line 503: unreachable code after return statement
+1505272069991	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://blog.csdn.net/"
+1505272069994	Marionette	DEBUG	Received DOM event "pageshow" for "http://blog.csdn.net/"
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js, line 503: unreachable code after return statement
+1505272070850	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://blog.csdn.net/"
+1505272070855	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://blog.csdn.net/"
+1505272070858	Marionette	DEBUG	Received DOM event "pageshow" for "http://blog.csdn.net/"
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 503: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 503: unreachable code after return statement
+JavaScript error: http://blog.csdn.net/, line 1: ReferenceError: invalid assignment left-hand side
+1505272078604	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://pos.baidu.com/kckm?rdid=2521326&dc=3&di=u2521326&dri=0&dis=0&dai=1&ps=4221x959&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1505272071763&ti=CSDN%E5%8D%9A%E5%AE%A2-%E6%9C%80%E5%A4%A7IT%E5%86%99%E4%BD%9C%E5%88%86%E4%BA%AB%E5%B9%B3%E5%8F%B0&ari=2&dbv=0&drs=3&pcs=1349x669&pss=1349x4659&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1505272071&rw=669&ltu=http%3A%2F%2Fblog.csdn.net%2F&ecd=1&uc=1366x738&pis=-1x-1&sr=1366x768&tcn=1505272072&qn=c6c43d0f8e99b859&tt=1505272071723.45.96.99"
+1505272081335	Marionette	DEBUG	Received DOM event "pageshow" for "http://pos.baidu.com/kckm?rdid=2521326&dc=3&di=u2521326&dri=0&dis=0&dai=1&ps=4221x959&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1505272071763&ti=CSDN%E5%8D%9A%E5%AE%A2-%E6%9C%80%E5%A4%A7IT%E5%86%99%E4%BD%9C%E5%88%86%E4%BA%AB%E5%B9%B3%E5%8F%B0&ari=2&dbv=0&drs=3&pcs=1349x669&pss=1349x4659&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1505272071&rw=669&ltu=http%3A%2F%2Fblog.csdn.net%2F&ecd=1&uc=1366x738&pis=-1x-1&sr=1366x768&tcn=1505272072&qn=c6c43d0f8e99b859&tt=1505272071723.45.96.99"
+1505272081344	Marionette	DEBUG	Received DOM event "pageshow" for "http://blog.csdn.net/"
+1505272102205	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[GPU 8340] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\lanjingjing\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 17328] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12700] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1505272626920	geckodriver	INFO	geckodriver 0.18.0
+1505272626932	geckodriver	INFO	Listening on 127.0.0.1:60367
+1505272629003	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505272629334	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505272629833	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\lanjingjing\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 15788] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505272631913	Marionette	INFO	Listening on port 60381
+1505272631923	Marionette	INFO	Listening on port 60381
+1505272632133	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505272632175	Marionette	DEBUG	loaded listener.js
+1505272632207	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505272632500	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505272632500	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\lanjingjing\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js, line 503: unreachable code after return statement
+1505272633117	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://blog.csdn.net/"
+1505272633124	Marionette	DEBUG	Received DOM event "pageshow" for "http://blog.csdn.net/"
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 503: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js, line 503: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 503: unreachable code after return statement
+1505272633395	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://blog.csdn.net/"
+1505272633396	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://blog.csdn.net/"
+1505272633398	Marionette	DEBUG	Received DOM event "pageshow" for "http://blog.csdn.net/"
+JavaScript error: http://blog.csdn.net/, line 1: ReferenceError: invalid assignment left-hand side
+1505272635978	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://pos.baidu.com/lcdm?rdid=2521326&dc=3&di=u2521326&dri=0&dis=0&dai=1&ps=4221x959&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1505272634817&ti=CSDN%E5%8D%9A%E5%AE%A2-%E6%9C%80%E5%A4%A7IT%E5%86%99%E4%BD%9C%E5%88%86%E4%BA%AB%E5%B9%B3%E5%8F%B0&ari=2&dbv=0&drs=3&pcs=1349x669&pss=1349x4659&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1505272634&rw=669&ltu=http%3A%2F%2Fblog.csdn.net%2F&ecd=1&uc=1366x738&pis=-1x-1&sr=1366x768&tcn=1505272635&qn=5bde0a78505084cf&tt=1505272634797.23.80.83"
+1505272636124	Marionette	DEBUG	Received DOM event "pageshow" for "http://pos.baidu.com/lcdm?rdid=2521326&dc=3&di=u2521326&dri=0&dis=0&dai=1&ps=4221x959&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1505272634817&ti=CSDN%E5%8D%9A%E5%AE%A2-%E6%9C%80%E5%A4%A7IT%E5%86%99%E4%BD%9C%E5%88%86%E4%BA%AB%E5%B9%B3%E5%8F%B0&ari=2&dbv=0&drs=3&pcs=1349x669&pss=1349x4659&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1505272634&rw=669&ltu=http%3A%2F%2Fblog.csdn.net%2F&ecd=1&uc=1366x738&pis=-1x-1&sr=1366x768&tcn=1505272635&qn=5bde0a78505084cf&tt=1505272634797.23.80.83"
+1505272636261	Marionette	DEBUG	Received DOM event "pageshow" for "http://blog.csdn.net/"
+1505272641668	Marionette	DEBUG	Received DOM event "beforeunload" for "http://blog.csdn.net/"
+1505272643010	Marionette	DEBUG	Received DOM event "pagehide" for "http://blog.csdn.net/"
+1505272643013	Marionette	DEBUG	Received DOM event "unload" for "http://blog.csdn.net/"
+1505272643581	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1505272643581	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1505272643582	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1505272643582	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+JavaScript error: https://csdnimg.cn/pubfooter/js/publib_footer.js?7guyq=, line 86: ReferenceError: $ is not defined
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 503: unreachable code after return statement
+JavaScript error: https://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 167: ReferenceError: jQuery is not defined
+1505272644105	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.csdn.net/account/login?ref=toolbar"
+1505272644259	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.weixin.qq.com/connect/qrconnect?appid=wx0ae11b6a28b4b9fc&scope=snsapi_login&redirect_uri=https://passport.csdn.net/account/weixin?qr=true&state=csdn&login_type=jssdk&self_redirect=default&style=white&href=https://passport.csdn.net/css/replace-wx-style.css"
+1505272644316	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.weixin.qq.com/connect/qrconnect?appid=wx0ae11b6a28b4b9fc&scope=snsapi_login&redirect_uri=https://passport.csdn.net/account/weixin?qr=true&state=csdn&login_type=jssdk&self_redirect=default&style=white&href=https://passport.csdn.net/css/replace-wx-style.css"
+1505272644324	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.csdn.net/account/login?ref=toolbar"
+1505272644408	Marionette	DEBUG	Received DOM event "beforeunload" for "https://passport.csdn.net/account/login?ref=toolbar"
+1505272645220	Marionette	DEBUG	Received DOM event "pagehide" for "https://passport.csdn.net/account/login?ref=toolbar"
+1505272645223	Marionette	DEBUG	Received DOM event "unload" for "https://passport.csdn.net/account/login?ref=toolbar"
+1505272645666	Marionette	DEBUG	Received DOM event "pageshow" for "https://graph.qq.com/oauth/show?which=Login&display=pc&response_type=code&client_id=100270989&redirect_uri=https%3A%2F%2Fpassport.csdn.net%2Faccount%2Flogin%3Foauth_provider%3DQQProvider&state=test"
+1505272645679	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1505272645940	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://xui.ptlogin2.qq.com/cgi-bin/xlogin?appid=716027609&daid=383&style=33&login_text=%E6%8E%88%E6%9D%83%E5%B9%B6%E7%99%BB%E5%BD%95&hide_title_bar=1&hide_border=1&target=self&s_url=https%3A%2F%2Fgraph.qq.com%2Foauth%2Flogin_jump&pt_3rd_aid=100270989&pt_feedback_link=http%3A%2F%2Fsupport.qq.com%2Fwrite.shtml%3Ffid%3D780%26SSTAG%3Dwww.csdn.net.appid100270989"
+1505272646873	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://graph.qq.com/oauth/show?which=Login&display=pc&response_type=code&client_id=100270989&redirect_uri=https%3A%2F%2Fpassport.csdn.net%2Faccount%2Flogin%3Foauth_provider%3DQQProvider&state=test"
+1505272654207	Marionette	DEBUG	Received DOM event "pageshow" for "https://xui.ptlogin2.qq.com/cgi-bin/xlogin?appid=716027609&daid=383&style=33&login_text=%E6%8E%88%E6%9D%83%E5%B9%B6%E7%99%BB%E5%BD%95&hide_title_bar=1&hide_border=1&target=self&s_url=https%3A%2F%2Fgraph.qq.com%2Foauth%2Flogin_jump&pt_3rd_aid=100270989&pt_feedback_link=http%3A%2F%2Fsupport.qq.com%2Fwrite.shtml%3Ffid%3D780%26SSTAG%3Dwww.csdn.net.appid100270989"
+1505272654210	Marionette	DEBUG	Received DOM event "pageshow" for "https://graph.qq.com/oauth/show?which=Login&display=pc&response_type=code&client_id=100270989&redirect_uri=https%3A%2F%2Fpassport.csdn.net%2Faccount%2Flogin%3Foauth_provider%3DQQProvider&state=test"
+1505272658503	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js, line 503: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 503: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js, line 503: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 503: unreachable code after return statement
+JavaScript error: http://blog.csdn.net/, line 1: ReferenceError: invalid assignment left-hand side
+1505272662647	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+wait.until/<@chrome://marionette/content/wait.js:84:5
+wait.until@chrome://marionette/content/wait.js:65:10
+element.find/<@chrome://marionette/content/element.js:255:24
+element.find@chrome://marionette/content/element.js:254:10
+findElementContent@chrome://marionette/content/listener.js:1207:18
+TaskImpl_run@resource://gre/modules/Task.jsm:321:42
+TaskImpl@resource://gre/modules/Task.jsm:279:3
+asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:391:16
+TaskImpl_run@resource://gre/modules/Task.jsm:329:15
+TaskImpl@resource://gre/modules/Task.jsm:279:3
+asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+dispatch/<@chrome://marionette/content/listener.js:427:15
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+wait.until/<@chrome://marionette/content/wait.js:84:5
+wait.until@chrome://marionette/content/wait.js:65:10
+element.find/<@chrome://marionette/content/element.js:255:24
+element.find@chrome://marionette/content/element.js:254:10
+findElementContent@chrome://marionette/content/listener.js:1207:18
+TaskImpl_run@resource://gre/modules/Task.jsm:321:42
+TaskImpl@resource://gre/modules/Task.jsm:279:3
+asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:391:16
+TaskImpl_run@resource://gre/modules/Task.jsm:329:15
+TaskImpl@resource://gre/modules/Task.jsm:279:3
+asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+dispatch/<@chrome://marionette/content/listener.js:427:15
+
+*************************
+[GPU 15788] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 15788] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 15788] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 15788] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 15788] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\lanjingjing\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10768] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505272718525	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\lanjingjing\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 9488] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505272720865	Marionette	INFO	Listening on port 60920
+1505272720889	Marionette	INFO	Listening on port 60920
+1505272721312	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505272721361	Marionette	DEBUG	loaded listener.js
+1505272721386	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505272721811	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505272721811	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\lanjingjing\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js, line 503: unreachable code after return statement
+1505272722512	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://blog.csdn.net/"
+1505272722543	Marionette	DEBUG	Received DOM event "pageshow" for "http://blog.csdn.net/"
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 503: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js, line 503: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 503: unreachable code after return statement
+1505272722913	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://blog.csdn.net/"
+1505272722917	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://blog.csdn.net/"
+1505272722919	Marionette	DEBUG	Received DOM event "pageshow" for "http://blog.csdn.net/"
+JavaScript error: http://blog.csdn.net/, line 1: ReferenceError: invalid assignment left-hand side
+1505272724865	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://pos.baidu.com/vcvm?rdid=2521326&dc=3&di=u2521326&dri=0&dis=0&dai=1&ps=4221x959&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1505272723681&ti=CSDN%E5%8D%9A%E5%AE%A2-%E6%9C%80%E5%A4%A7IT%E5%86%99%E4%BD%9C%E5%88%86%E4%BA%AB%E5%B9%B3%E5%8F%B0&ari=2&dbv=0&drs=3&pcs=1349x669&pss=1349x4659&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1505272723&rw=669&ltu=http%3A%2F%2Fblog.csdn.net%2F&ecd=1&uc=1366x738&pis=-1x-1&sr=1366x768&tcn=1505272724&qn=27ae7de427b33601&tt=1505272723660.24.51.54"
+1505272725363	Marionette	DEBUG	Received DOM event "pageshow" for "http://pos.baidu.com/vcvm?rdid=2521326&dc=3&di=u2521326&dri=0&dis=0&dai=1&ps=4221x959&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1505272723681&ti=CSDN%E5%8D%9A%E5%AE%A2-%E6%9C%80%E5%A4%A7IT%E5%86%99%E4%BD%9C%E5%88%86%E4%BA%AB%E5%B9%B3%E5%8F%B0&ari=2&dbv=0&drs=3&pcs=1349x669&pss=1349x4659&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1505272723&rw=669&ltu=http%3A%2F%2Fblog.csdn.net%2F&ecd=1&uc=1366x738&pis=-1x-1&sr=1366x768&tcn=1505272724&qn=27ae7de427b33601&tt=1505272723660.24.51.54"
+1505272725484	Marionette	DEBUG	Received DOM event "pageshow" for "http://blog.csdn.net/"
+1505272730868	Marionette	DEBUG	Received DOM event "beforeunload" for "http://blog.csdn.net/"
+1505272731030	Marionette	DEBUG	Received DOM event "pagehide" for "http://blog.csdn.net/"
+1505272731031	Marionette	DEBUG	Received DOM event "unload" for "http://blog.csdn.net/"
+JavaScript error: https://csdnimg.cn/pubfooter/js/publib_footer.js?7guyr=, line 86: ReferenceError: $ is not defined
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 503: unreachable code after return statement
+JavaScript error: https://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 167: ReferenceError: jQuery is not defined
+1505272731593	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.csdn.net/account/login?ref=toolbar"
+1505272732012	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1505272732013	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1505272732014	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1505272732015	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1505272732019	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1505272732254	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.weixin.qq.com/connect/qrconnect?appid=wx0ae11b6a28b4b9fc&scope=snsapi_login&redirect_uri=https://passport.csdn.net/account/weixin?qr=true&state=csdn&login_type=jssdk&self_redirect=default&style=white&href=https://passport.csdn.net/css/replace-wx-style.css"
+[GPU 9488] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9488] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505272754190	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1505272754190	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483652"
+Unable to read VR Path Registry from C:\Users\lanjingjing\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2492] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14120] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505272754235	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1505272756348	geckodriver	INFO	geckodriver 0.18.0
+1505272756359	geckodriver	INFO	Listening on 127.0.0.1:61164
+1505272758447	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505272758766	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505272759263	Marionette	INFO	Enabled via --marionette
+1505272761184	Marionette	INFO	Listening on port 61201
+1505272761201	Marionette	INFO	Listening on port 61201
+1505272761585	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505272761622	Marionette	DEBUG	loaded listener.js
+1505272761646	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505272761863	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505272761863	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\lanjingjing\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js, line 503: unreachable code after return statement
+1505272762701	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://blog.csdn.net/"
+1505272762715	Marionette	DEBUG	Received DOM event "pageshow" for "http://blog.csdn.net/"
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js, line 503: unreachable code after return statement
+1505272762992	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://blog.csdn.net/"
+1505272762992	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://blog.csdn.net/"
+1505272762994	Marionette	DEBUG	Received DOM event "pageshow" for "http://blog.csdn.net/"
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 503: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 503: unreachable code after return statement
+JavaScript error: http://blog.csdn.net/, line 1: ReferenceError: invalid assignment left-hand side
+1505272764851	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://pos.baidu.com/xctm?rdid=2521326&dc=3&di=u2521326&dri=0&dis=0&dai=1&ps=4221x959&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1505272763527&ti=CSDN%E5%8D%9A%E5%AE%A2-%E6%9C%80%E5%A4%A7IT%E5%86%99%E4%BD%9C%E5%88%86%E4%BA%AB%E5%B9%B3%E5%8F%B0&ari=2&dbv=0&drs=3&pcs=1349x669&pss=1349x4659&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1505272763&rw=669&ltu=http%3A%2F%2Fblog.csdn.net%2F&ecd=1&uc=1366x738&pis=-1x-1&sr=1366x768&tcn=1505272764&qn=879ac27c4af17e7f&tt=1505272763492.40.1066.1069"
+1505272765170	Marionette	DEBUG	Received DOM event "pageshow" for "http://pos.baidu.com/xctm?rdid=2521326&dc=3&di=u2521326&dri=0&dis=0&dai=1&ps=4221x959&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1505272763527&ti=CSDN%E5%8D%9A%E5%AE%A2-%E6%9C%80%E5%A4%A7IT%E5%86%99%E4%BD%9C%E5%88%86%E4%BA%AB%E5%B9%B3%E5%8F%B0&ari=2&dbv=0&drs=3&pcs=1349x669&pss=1349x4659&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1505272763&rw=669&ltu=http%3A%2F%2Fblog.csdn.net%2F&ecd=1&uc=1366x738&pis=-1x-1&sr=1366x768&tcn=1505272764&qn=879ac27c4af17e7f&tt=1505272763492.40.1066.1069"
+1505272765176	Marionette	DEBUG	Received DOM event "pageshow" for "http://blog.csdn.net/"
+1505272770585	Marionette	DEBUG	Received DOM event "beforeunload" for "http://blog.csdn.net/"
+1505272770724	Marionette	DEBUG	Received DOM event "pagehide" for "http://blog.csdn.net/"
+1505272770727	Marionette	DEBUG	Received DOM event "unload" for "http://blog.csdn.net/"
+1505272772100	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1505272772101	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1505272772101	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1505272772101	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1505272772102	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+JavaScript error: https://csdnimg.cn/pubfooter/js/publib_footer.js?7guyr=, line 86: ReferenceError: $ is not defined
+1505272772448	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.csdn.net/account/login?ref=toolbar"
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 503: unreachable code after return statement
+JavaScript error: https://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 167: ReferenceError: jQuery is not defined
+1505272772629	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.weixin.qq.com/connect/qrconnect?appid=wx0ae11b6a28b4b9fc&scope=snsapi_login&redirect_uri=https://passport.csdn.net/account/weixin?qr=true&state=csdn&login_type=jssdk&self_redirect=default&style=white&href=https://passport.csdn.net/css/replace-wx-style.css"
+1505272800103	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.weixin.qq.com/connect/qrconnect?appid=wx0ae11b6a28b4b9fc&scope=snsapi_login&redirect_uri=https://passport.csdn.net/account/weixin?qr=true&state=csdn&login_type=jssdk&self_redirect=default&style=white&href=https://passport.csdn.net/css/replace-wx-style.css"
+1505272800110	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.csdn.net/account/login?ref=toolbar"
+1505272800212	Marionette	DEBUG	Received DOM event "beforeunload" for "https://passport.csdn.net/account/login?ref=toolbar"
+1505272800755	Marionette	DEBUG	Received DOM event "pagehide" for "https://passport.csdn.net/account/login?ref=toolbar"
+1505272800757	Marionette	DEBUG	Received DOM event "unload" for "https://passport.csdn.net/account/login?ref=toolbar"
+1505272800998	Marionette	DEBUG	Received DOM event "pageshow" for "https://graph.qq.com/oauth/show?which=Login&display=pc&response_type=code&client_id=100270989&redirect_uri=https%3A%2F%2Fpassport.csdn.net%2Faccount%2Flogin%3Foauth_provider%3DQQProvider&state=test"
+1505272801000	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1505272801167	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://xui.ptlogin2.qq.com/cgi-bin/xlogin?appid=716027609&daid=383&style=33&login_text=%E6%8E%88%E6%9D%83%E5%B9%B6%E7%99%BB%E5%BD%95&hide_title_bar=1&hide_border=1&target=self&s_url=https%3A%2F%2Fgraph.qq.com%2Foauth%2Flogin_jump&pt_3rd_aid=100270989&pt_feedback_link=http%3A%2F%2Fsupport.qq.com%2Fwrite.shtml%3Ffid%3D780%26SSTAG%3Dwww.csdn.net.appid100270989"
+1505272801990	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://graph.qq.com/oauth/show?which=Login&display=pc&response_type=code&client_id=100270989&redirect_uri=https%3A%2F%2Fpassport.csdn.net%2Faccount%2Flogin%3Foauth_provider%3DQQProvider&state=test"
+1505272803341	Marionette	DEBUG	Received DOM event "pageshow" for "https://xui.ptlogin2.qq.com/cgi-bin/xlogin?appid=716027609&daid=383&style=33&login_text=%E6%8E%88%E6%9D%83%E5%B9%B6%E7%99%BB%E5%BD%95&hide_title_bar=1&hide_border=1&target=self&s_url=https%3A%2F%2Fgraph.qq.com%2Foauth%2Flogin_jump&pt_3rd_aid=100270989&pt_feedback_link=http%3A%2F%2Fsupport.qq.com%2Fwrite.shtml%3Ffid%3D780%26SSTAG%3Dwww.csdn.net.appid100270989"
+1505272803344	Marionette	DEBUG	Received DOM event "pageshow" for "https://graph.qq.com/oauth/show?which=Login&display=pc&response_type=code&client_id=100270989&redirect_uri=https%3A%2F%2Fpassport.csdn.net%2Faccount%2Flogin%3Foauth_provider%3DQQProvider&state=test"
+1505272807564	Marionette	DEBUG	Received DOM event "beforeunload" for "https://xui.ptlogin2.qq.com/cgi-bin/xlogin?appid=716027609&daid=383&style=33&login_text=%E6%8E%88%E6%9D%83%E5%B9%B6%E7%99%BB%E5%BD%95&hide_title_bar=1&hide_border=1&target=self&s_url=https%3A%2F%2Fgraph.qq.com%2Foauth%2Flogin_jump&pt_3rd_aid=100270989&pt_feedback_link=http%3A%2F%2Fsupport.qq.com%2Fwrite.shtml%3Ffid%3D780%26SSTAG%3Dwww.csdn.net.appid100270989"
+1505272807792	Marionette	DEBUG	Received DOM event "pagehide" for "https://xui.ptlogin2.qq.com/cgi-bin/xlogin?appid=716027609&daid=383&style=33&login_text=%E6%8E%88%E6%9D%83%E5%B9%B6%E7%99%BB%E5%BD%95&hide_title_bar=1&hide_border=1&target=self&s_url=https%3A%2F%2Fgraph.qq.com%2Foauth%2Flogin_jump&pt_3rd_aid=100270989&pt_feedback_link=http%3A%2F%2Fsupport.qq.com%2Fwrite.shtml%3Ffid%3D780%26SSTAG%3Dwww.csdn.net.appid100270989"
+1505272807793	Marionette	DEBUG	Received DOM event "unload" for "https://xui.ptlogin2.qq.com/cgi-bin/xlogin?appid=716027609&daid=383&style=33&login_text=%E6%8E%88%E6%9D%83%E5%B9%B6%E7%99%BB%E5%BD%95&hide_title_bar=1&hide_border=1&target=self&s_url=https%3A%2F%2Fgraph.qq.com%2Foauth%2Flogin_jump&pt_3rd_aid=100270989&pt_feedback_link=http%3A%2F%2Fsupport.qq.com%2Fwrite.shtml%3Ffid%3D780%26SSTAG%3Dwww.csdn.net.appid100270989"
+1505272807806	Marionette	DEBUG	Received DOM event "pageshow" for "https://graph.qq.com/oauth/login_jump"
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js, line 503: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 503: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js, line 503: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 503: unreachable code after return statement
+JavaScript error: http://blog.csdn.net/, line 1: ReferenceError: invalid assignment left-hand side
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+wait.until/<@chrome://marionette/content/wait.js:84:5
+wait.until@chrome://marionette/content/wait.js:65:10
+element.find/<@chrome://marionette/content/element.js:255:24
+element.find@chrome://marionette/content/element.js:254:10
+findElementContent@chrome://marionette/content/listener.js:1207:18
+TaskImpl_run@resource://gre/modules/Task.jsm:321:42
+TaskImpl@resource://gre/modules/Task.jsm:279:3
+asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:391:16
+TaskImpl_run@resource://gre/modules/Task.jsm:329:15
+TaskImpl@resource://gre/modules/Task.jsm:279:3
+asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+dispatch/<@chrome://marionette/content/listener.js:427:15
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+wait.until/<@chrome://marionette/content/wait.js:84:5
+wait.until@chrome://marionette/content/wait.js:65:10
+element.find/<@chrome://marionette/content/element.js:255:24
+element.find@chrome://marionette/content/element.js:254:10
+findElementContent@chrome://marionette/content/listener.js:1207:18
+TaskImpl_run@resource://gre/modules/Task.jsm:321:42
+TaskImpl@resource://gre/modules/Task.jsm:279:3
+asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:391:16
+TaskImpl_run@resource://gre/modules/Task.jsm:329:15
+TaskImpl@resource://gre/modules/Task.jsm:279:3
+asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+dispatch/<@chrome://marionette/content/listener.js:427:15
+
+*************************
+Unable to read VR Path Registry from C:\Users\lanjingjing\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 17696] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1796] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1796] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+tallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505272930486	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\lanjingjing\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8108] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\lanjingjing\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6904] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\lanjingjing\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15132] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505272932670	Marionette	INFO	Listening on port 61873
+1505272932700	Marionette	INFO	Listening on port 61873
+1505272933017	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505272933068	Marionette	DEBUG	loaded listener.js
+1505272933099	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505272933384	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505272933384	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\lanjingjing\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js, line 503: unreachable code after return statement
+1505272934198	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://blog.csdn.net/"
+1505272934202	Marionette	DEBUG	Received DOM event "pageshow" for "http://blog.csdn.net/"
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js, line 503: unreachable code after return statement
+1505272934668	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://blog.csdn.net/"
+1505272934673	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://blog.csdn.net/"
+1505272934675	Marionette	DEBUG	Received DOM event "pageshow" for "http://blog.csdn.net/"
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 503: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 503: unreachable code after return statement
+JavaScript error: http://blog.csdn.net/, line 1: ReferenceError: invalid assignment left-hand side
+1505272936790	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://pos.baidu.com/uccm?rdid=2521326&dc=3&di=u2521326&dri=0&dis=0&dai=1&ps=4271x959&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1505272935280&ti=CSDN%E5%8D%9A%E5%AE%A2-%E6%9C%80%E5%A4%A7IT%E5%86%99%E4%BD%9C%E5%88%86%E4%BA%AB%E5%B9%B3%E5%8F%B0&ari=2&dbv=0&drs=3&pcs=1349x669&pss=1349x4709&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1505272935&rw=669&ltu=http%3A%2F%2Fblog.csdn.net%2F&ecd=1&uc=1366x738&pis=-1x-1&sr=1366x768&tcn=1505272935&qn=59b5ea2da410e1dd&tt=1505272935257.26.991.993"
+1505272937401	Marionette	DEBUG	Received DOM event "pageshow" for "http://pos.baidu.com/uccm?rdid=2521326&dc=3&di=u2521326&dri=0&dis=0&dai=1&ps=4271x959&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1505272935280&ti=CSDN%E5%8D%9A%E5%AE%A2-%E6%9C%80%E5%A4%A7IT%E5%86%99%E4%BD%9C%E5%88%86%E4%BA%AB%E5%B9%B3%E5%8F%B0&ari=2&dbv=0&drs=3&pcs=1349x669&pss=1349x4709&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1505272935&rw=669&ltu=http%3A%2F%2Fblog.csdn.net%2F&ecd=1&uc=1366x738&pis=-1x-1&sr=1366x768&tcn=1505272935&qn=59b5ea2da410e1dd&tt=1505272935257.26.991.993"
+1505272938362	Marionette	DEBUG	Received DOM event "pageshow" for "http://blog.csdn.net/"
+1505272943799	Marionette	DEBUG	Received DOM event "beforeunload" for "http://blog.csdn.net/"
+1505272943954	Marionette	DEBUG	Received DOM event "pagehide" for "http://blog.csdn.net/"
+1505272943959	Marionette	DEBUG	Received DOM event "unload" for "http://blog.csdn.net/"
+1505272944989	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1505272944990	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1505272944990	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1505272944991	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1505272944991	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+JavaScript error: https://csdnimg.cn/pubfooter/js/publib_footer.js?7guyt=, line 86: ReferenceError: $ is not defined
+JavaScript warning: https://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 503: unreachable code after return statement
+JavaScript error: https://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 167: ReferenceError: jQuery is not defined
+1505272945735	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.csdn.net/account/login?ref=toolbar"
+1505272946125	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://open.weixin.qq.com/connect/qrconnect?appid=wx0ae11b6a28b4b9fc&scope=snsapi_login&redirect_uri=https://passport.csdn.net/account/weixin?qr=true&state=csdn&login_type=jssdk&self_redirect=default&style=white&href=https://passport.csdn.net/css/replace-wx-style.css"
+1505272946209	Marionette	DEBUG	Received DOM event "pageshow" for "https://open.weixin.qq.com/connect/qrconnect?appid=wx0ae11b6a28b4b9fc&scope=snsapi_login&redirect_uri=https://passport.csdn.net/account/weixin?qr=true&state=csdn&login_type=jssdk&self_redirect=default&style=white&href=https://passport.csdn.net/css/replace-wx-style.css"
+1505272946242	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.csdn.net/account/login?ref=toolbar"
+1505272946371	Marionette	DEBUG	Received DOM event "beforeunload" for "https://passport.csdn.net/account/login?ref=toolbar"
+1505272946865	Marionette	DEBUG	Received DOM event "pagehide" for "https://passport.csdn.net/account/login?ref=toolbar"
+1505272946868	Marionette	DEBUG	Received DOM event "unload" for "https://passport.csdn.net/account/login?ref=toolbar"
+1505272947060	Marionette	DEBUG	Received DOM event "pageshow" for "https://graph.qq.com/oauth/show?which=Login&display=pc&response_type=code&client_id=100270989&redirect_uri=https%3A%2F%2Fpassport.csdn.net%2Faccount%2Flogin%3Foauth_provider%3DQQProvider&state=test"
+1505272947072	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1505272947371	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://xui.ptlogin2.qq.com/cgi-bin/xlogin?appid=716027609&daid=383&style=33&login_text=%E6%8E%88%E6%9D%83%E5%B9%B6%E7%99%BB%E5%BD%95&hide_title_bar=1&hide_border=1&target=self&s_url=https%3A%2F%2Fgraph.qq.com%2Foauth%2Flogin_jump&pt_3rd_aid=100270989&pt_feedback_link=http%3A%2F%2Fsupport.qq.com%2Fwrite.shtml%3Ffid%3D780%26SSTAG%3Dwww.csdn.net.appid100270989"
+1505272947847	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://graph.qq.com/oauth/show?which=Login&display=pc&response_type=code&client_id=100270989&redirect_uri=https%3A%2F%2Fpassport.csdn.net%2Faccount%2Flogin%3Foauth_provider%3DQQProvider&state=test"
+1505272955478	Marionette	DEBUG	Received DOM event "pageshow" for "https://xui.ptlogin2.qq.com/cgi-bin/xlogin?appid=716027609&daid=383&style=33&login_text=%E6%8E%88%E6%9D%83%E5%B9%B6%E7%99%BB%E5%BD%95&hide_title_bar=1&hide_border=1&target=self&s_url=https%3A%2F%2Fgraph.qq.com%2Foauth%2Flogin_jump&pt_3rd_aid=100270989&pt_feedback_link=http%3A%2F%2Fsupport.qq.com%2Fwrite.shtml%3Ffid%3D780%26SSTAG%3Dwww.csdn.net.appid100270989"
+1505272955481	Marionette	DEBUG	Received DOM event "pageshow" for "https://graph.qq.com/oauth/show?which=Login&display=pc&response_type=code&client_id=100270989&redirect_uri=https%3A%2F%2Fpassport.csdn.net%2Faccount%2Flogin%3Foauth_provider%3DQQProvider&state=test"
+1505272959762	Marionette	DEBUG	Received DOM event "beforeunload" for "https://xui.ptlogin2.qq.com/cgi-bin/xlogin?appid=716027609&daid=383&style=33&login_text=%E6%8E%88%E6%9D%83%E5%B9%B6%E7%99%BB%E5%BD%95&hide_title_bar=1&hide_border=1&target=self&s_url=https%3A%2F%2Fgraph.qq.com%2Foauth%2Flogin_jump&pt_3rd_aid=100270989&pt_feedback_link=http%3A%2F%2Fsupport.qq.com%2Fwrite.shtml%3Ffid%3D780%26SSTAG%3Dwww.csdn.net.appid100270989"
+1505272960110	Marionette	DEBUG	Received DOM event "pagehide" for "https://xui.ptlogin2.qq.com/cgi-bin/xlogin?appid=716027609&daid=383&style=33&login_text=%E6%8E%88%E6%9D%83%E5%B9%B6%E7%99%BB%E5%BD%95&hide_title_bar=1&hide_border=1&target=self&s_url=https%3A%2F%2Fgraph.qq.com%2Foauth%2Flogin_jump&pt_3rd_aid=100270989&pt_feedback_link=http%3A%2F%2Fsupport.qq.com%2Fwrite.shtml%3Ffid%3D780%26SSTAG%3Dwww.csdn.net.appid100270989"
+1505272960110	Marionette	DEBUG	Received DOM event "unload" for "https://xui.ptlogin2.qq.com/cgi-bin/xlogin?appid=716027609&daid=383&style=33&login_text=%E6%8E%88%E6%9D%83%E5%B9%B6%E7%99%BB%E5%BD%95&hide_title_bar=1&hide_border=1&target=self&s_url=https%3A%2F%2Fgraph.qq.com%2Foauth%2Flogin_jump&pt_3rd_aid=100270989&pt_feedback_link=http%3A%2F%2Fsupport.qq.com%2Fwrite.shtml%3Ffid%3D780%26SSTAG%3Dwww.csdn.net.appid100270989"
+1505272960129	Marionette	DEBUG	Received DOM event "pageshow" for "https://graph.qq.com/oauth/login_jump"
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js, line 503: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 503: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/tracking-ad/main.js, line 503: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?20170802001, line 503: unreachable code after return statement
+JavaScript error: http://blog.csdn.net/, line 1: ReferenceError: invalid assignment left-hand side
+[GPU 8108] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8108] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8108] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6904] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1505357966586	geckodriver	INFO	geckodriver 0.18.0
+1505357966599	geckodriver	INFO	Listening on 127.0.0.1:51849
+1505362985258	geckodriver	INFO	geckodriver 0.18.0
+1505362985270	geckodriver	INFO	Listening on 127.0.0.1:54093
