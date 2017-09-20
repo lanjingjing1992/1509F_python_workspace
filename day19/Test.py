@@ -17,7 +17,6 @@ class Test:
                price=int(input('请输入新的菜品单价'))
 
                self.menu.menu.update({num+1:[name,price]})
-               print(self.menu.menu)
                print('更新成功')
                self.order()
             else:
@@ -26,22 +25,21 @@ class Test:
 
         else:
             self.order()
-            y_n=input('是否继续点餐（结束输入n,继续可按任意键）')
-            if y_n=='n':
-                #结账
-                print('您的点餐信息如下\n'
-                      '*****************************\n'
-                      +"编号"+"   "+"菜品名称"+"   "+"价钱"+"   "+"数量"+"   "+"小计")
-                #写入文件
-                file=open('test.txt','w+')
-                file.write(self.all)
-                file.seek(0,0)
-                print(file.read())
-                file.close()
-                print('-------------------------------\n合计                 '+str(self.count)+'元\n'+'***************************')
 
-            else:
-                self.order()
+
+    def calc(self):
+        # 结账
+        print('您的点餐信息如下\n'
+              '*****************************\n'
+              + "编号" + "   " + "菜品名称" + "   " + "价钱" + "   " + "数量" + "   " + "小计")
+        # 写入文件
+        file = open('test.txt', 'w+')
+        file.write(self.all)
+        file.seek(0, 0)
+        print(file.read())
+        file.close()
+        print('-------------------------------\n合计                 ' + str(
+            self.count) + '元\n' + '***************************')
 
     def order(self):
         print('菜品展示\n------------------------------\n'
@@ -59,8 +57,13 @@ class Test:
         menu_name=self.menu.menu[int(id)][0]
         sum=price*int(num)
         self.count+=sum
-        self.all+=id+'   '+'   '+menu_name+'    '+str(price) +'元   '+num+'    '+str(sum)+'元'
+        self.all+=id+'   '+'   '+menu_name+'    '+str(price) +'元   '+num+'    '+str(sum)+'元\n'
+        y_n = input('是否继续点餐（结束输入n,继续可按任意键）')
+        if y_n == 'n':
+            self.calc()
 
+        else:
+            self.order()
 
 t=Test()
 t.login()
